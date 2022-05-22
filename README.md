@@ -6,4 +6,4 @@ Introductory project to Linear Models, Decision Trees and Ensemble Methods. It i
 - **Evaluation**: various evaluation methods such as cross-validation.
 - **Data-preprocessing**: handling of missing and categorical values, one hot encoding and normalization.
 
-**Instructions**: To run each demo, you will need the appropriate dataset, which can be found under the **data** directory and inside the folder corresponding to the demo you are running.
+**Instructions**: To run each demo, you will need a dataset, which can be found under the **data** directory and inside the folder corresponding to the demo you are running.
