@@ -5,3 +5,5 @@ Introductory project to Linear Models, Decision Trees and Ensemble Methods. It i
 - **Model-tuning**: finding the best parameters for the model, while avoiding overfitting.
 - **Evaluation**: various evaluation methods such as cross-validation.
 - **Data-preprocessing**: handling of missing and categorical values, one hot encoding and normalization.
+
+**Instructions**: To run each demo, you will need the appropriate dataset, which can be found under the **data** directory and inside the folder corresponding to the demo you are running.
